@@ -14,7 +14,7 @@ A fun Snake game with multiple game modes built with Flutter.
   - Speed Cage
   - Random Random
   - Speed Random
-- Customizable skins
+- Multiple skins to unlock
 - High score tracking
 - Immersive full-screen experience
 
