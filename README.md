@@ -23,7 +23,7 @@ A fun Snake game with multiple game modes built with Flutter.
 1. **Normal Normal**: Classic snake gameplay
 2. **Speed Speed**: Snake moves at increased speed
 3. **Cage Cage**: Snake is in a cage
-4. **SSpeed Cage**: Fast snake is in a cage
+4. **Speed Cage**: Fast snake is in a cage
 5. **Random Random**: Random walls appear on the game board
 6. **Speed Random**: Fast snake with random walls
 
